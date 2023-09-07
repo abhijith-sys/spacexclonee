@@ -1,0 +1,48 @@
+/* LaunchDetail.module.css */
+.launchdetail {
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 20px;
+    text-align: left;
+  }
+  
+  .launchinfo {
+    margin-top: 10px;
+  }
+  
+  .launchinfo p {
+    margin: 5px 0;
+  }
+  
+  .launchdescription {
+    margin-top: 20px;
+  }
+  
+  .launchdescription h3 {
+    margin: 10px 0;
+  }
+  
+  .launchlinks {
+    margin-top: 20px;
+  }
+  
+  .launchlinks ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .launchlinks ul li {
+    margin-bottom: 10px;
+  }
+  
+  .launchlinks a {
+    text-decoration: none;
+    color: #0077cc;
+  }
+  
+  .launchlinks a:hover {
+    text-decoration: underline;
+    color: #005299;
+  }

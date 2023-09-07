@@ -1,0 +1,97 @@
+.homebody {
+  width: 100%;
+  height: 100vh;
+  background-color: antiquewhite;
+  background-image: url("../../assets//Images//spacex.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+/* landing-page.css */
+.landing-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+}
+.navbarText {
+  color: white;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.054em;
+  text-decoration: none;
+}
+header {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.navbar {
+  width: 100%;
+
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  padding: 20;
+}
+h1 {
+  font-size: 36px;
+}
+
+.companyinfo {
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+  text-align: left;
+}
+
+h2 {
+  font-size: 24px;
+
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.keyfacts ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.keyfacts ul li {
+  font-size: 16px;
+
+  margin-bottom: 5px;
+}
+
+.headquarters p {
+  font-size: 16px;
+}
+.links{
+   position: absolute;
+   bottom: 0;
+   left: 50%;
+}
+.links ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.links ul li {
+  font-size: 16px;
+
+  margin-bottom: 5px;
+}
+
+.links a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
